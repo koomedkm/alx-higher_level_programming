@@ -1,1 +1,1 @@
-This repo contains the alx program hiher level programming content
+This repo contains the alx program higher level programming content
